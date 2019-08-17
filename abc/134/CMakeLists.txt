@@ -1,0 +1,1 @@
+add_executable(abc_134_a dodecagon.cpp)
