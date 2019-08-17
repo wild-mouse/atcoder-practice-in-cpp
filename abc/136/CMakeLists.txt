@@ -3,5 +3,4 @@ project(atcoder_practice_in_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_subdirectory(136)
-add_subdirectory(137)
+add_executable(abc_136_a transfer.cpp)
