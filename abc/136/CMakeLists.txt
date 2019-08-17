@@ -4,3 +4,4 @@ project(atcoder_practice_in_cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(abc_136_a transfer.cpp)
+add_executable(abc_136_b uneven_numbers.cpp)
