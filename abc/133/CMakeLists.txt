@@ -1,0 +1,1 @@
+add_executable(abc_133_a t_or_t.cpp)
