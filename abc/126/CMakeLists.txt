@@ -1,0 +1,1 @@
+add_executable(abc_126_a changing_a_character.cpp)
