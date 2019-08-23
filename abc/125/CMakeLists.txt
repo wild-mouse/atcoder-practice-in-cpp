@@ -1,2 +1,2 @@
-add_executable(abc_125_a buttons.cpp)
-add_executable(abc_125_b great_ocean_view.cpp)
+add_executable(abc_125_a biscuit_generator.cpp)
+add_executable(abc_125_b resale.cpp)
