@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(atcoder_practice_in_cpp main.cpp)
 
 add_subdirectory(abc)
+add_subdirectory(jsc)
