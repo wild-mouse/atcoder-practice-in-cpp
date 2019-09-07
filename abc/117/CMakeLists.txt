@@ -1,0 +1,1 @@
+add_executable(abc_117_a entrance_examination.cpp)
