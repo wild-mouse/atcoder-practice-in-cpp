@@ -3,6 +3,7 @@ project(atcoder_practice_in_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
+add_subdirectory(121)
 add_subdirectory(122)
 add_subdirectory(123)
 add_subdirectory(124)
