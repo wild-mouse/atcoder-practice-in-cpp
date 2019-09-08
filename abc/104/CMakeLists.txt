@@ -1,0 +1,1 @@
+add_executable(abc_104_a rated_for_me.cpp)
