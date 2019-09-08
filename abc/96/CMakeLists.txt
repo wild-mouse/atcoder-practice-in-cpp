@@ -1,0 +1,1 @@
+add_executable(abc_96_a day_of_takahashi.cpp)
