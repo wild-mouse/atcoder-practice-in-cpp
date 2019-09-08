@@ -1,0 +1,1 @@
+add_executable(abc_97_a colorful_transceivers.cpp)
