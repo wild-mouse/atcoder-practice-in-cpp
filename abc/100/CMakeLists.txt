@@ -1,0 +1,1 @@
+add_executable(abc_100_a happy_birthday.cpp)
