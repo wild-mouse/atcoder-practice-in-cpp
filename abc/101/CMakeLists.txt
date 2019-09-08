@@ -1,0 +1,1 @@
+add_executable(abc_101_a eating_symbols_easy.cpp)
