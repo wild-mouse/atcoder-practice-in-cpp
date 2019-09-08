@@ -1,0 +1,1 @@
+add_executable(abc_98_a add_sub_mul.cpp)
