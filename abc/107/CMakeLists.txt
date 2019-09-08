@@ -1,0 +1,1 @@
+add_executable(abc_107_a train.cpp)
