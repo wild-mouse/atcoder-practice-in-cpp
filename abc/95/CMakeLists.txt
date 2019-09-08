@@ -1,0 +1,1 @@
+add_executable(abc_95_a something_on_it.cpp)
