@@ -1,0 +1,1 @@
+add_executable(abc_105_a atcoder_crackers.cpp)
