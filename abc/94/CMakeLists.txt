@@ -1,0 +1,1 @@
+add_executable(abc_94_a cats_and_dogs.cpp)
