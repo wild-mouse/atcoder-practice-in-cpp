@@ -1,0 +1,1 @@
+add_executable(abc_102_a multiple_of_2_and_n.cpp)
