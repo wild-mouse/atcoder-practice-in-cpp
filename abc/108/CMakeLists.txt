@@ -1,0 +1,1 @@
+add_executable(abc_108_a pair.cpp)
