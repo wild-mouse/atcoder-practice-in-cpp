@@ -1,0 +1,1 @@
+add_executable(abc_88_a infinite_coins.cpp)
