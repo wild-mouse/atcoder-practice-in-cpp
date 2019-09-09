@@ -1,0 +1,1 @@
+add_executable(abc_90_a diagonal_string.cpp)
