@@ -1,0 +1,1 @@
+add_executable(abc_87_a buying_sweets.cpp)
