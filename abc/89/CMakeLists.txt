@@ -1,0 +1,1 @@
+add_executable(abc_89_a grouping_2.cpp)
