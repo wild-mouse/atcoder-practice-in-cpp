@@ -1,0 +1,1 @@
+add_executable(abc_91_a two_coins.cpp)
