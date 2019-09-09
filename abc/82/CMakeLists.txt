@@ -1,0 +1,1 @@
+add_executable(abc_82_a round_up_the_mean.cpp)

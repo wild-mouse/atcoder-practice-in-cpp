@@ -1,0 +1,1 @@
+add_executable(abc_80_a parking.cpp)

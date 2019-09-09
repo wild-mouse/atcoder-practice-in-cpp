@@ -1,0 +1,1 @@
+add_executable(abc_81_a placing_marbles.cpp)
