@@ -1,0 +1,1 @@
+add_executable(abc_84_a new_year.cpp)
