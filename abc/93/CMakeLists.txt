@@ -1,0 +1,1 @@
+add_executable(abc_93_a abc_of_abc.cpp)
