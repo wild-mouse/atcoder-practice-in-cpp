@@ -1,0 +1,1 @@
+add_executable(abc_86_a product.cpp)
