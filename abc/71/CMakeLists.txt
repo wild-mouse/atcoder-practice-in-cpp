@@ -1,0 +1,1 @@
+add_executable(abc_71_a meal_delivery.cpp)

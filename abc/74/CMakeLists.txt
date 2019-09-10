@@ -1,0 +1,1 @@
+add_executable(abc_74_a bichrome_cells.cpp)

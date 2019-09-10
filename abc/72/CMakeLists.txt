@@ -1,0 +1,1 @@
+add_executable(abc_72_a sendglass_2.cpp)

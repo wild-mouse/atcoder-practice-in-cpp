@@ -1,0 +1,1 @@
+add_executable(abc_77_a rotation.cpp)

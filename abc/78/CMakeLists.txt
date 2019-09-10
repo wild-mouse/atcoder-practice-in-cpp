@@ -1,0 +1,1 @@
+add_executable(abc_78_a hex.cpp)

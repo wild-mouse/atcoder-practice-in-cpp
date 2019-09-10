@@ -1,0 +1,1 @@
+add_executable(abc_70_a palindromic_number.cpp)

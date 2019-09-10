@@ -1,0 +1,1 @@
+add_executable(abc_79_a good_integer.cpp)

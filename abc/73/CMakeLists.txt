@@ -1,0 +1,1 @@
+add_executable(abc_73_a september_9.cpp)

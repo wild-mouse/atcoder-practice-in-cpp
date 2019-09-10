@@ -1,0 +1,1 @@
+add_executable(abc_76_a rating_goal.cpp)
