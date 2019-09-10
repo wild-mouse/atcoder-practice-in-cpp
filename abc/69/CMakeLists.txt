@@ -1,0 +1,1 @@
+add_executable(abc_69_a k_city.cpp)

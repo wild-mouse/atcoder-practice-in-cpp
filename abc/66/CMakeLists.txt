@@ -1,0 +1,1 @@
+add_executable(abc_66_a ringring.cpp)

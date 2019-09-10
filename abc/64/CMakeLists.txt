@@ -1,0 +1,1 @@
+add_executable(abc_64_a rgb_cards.cpp)

@@ -1,0 +1,1 @@
+add_executable(abc_63_a restricted.cpp)

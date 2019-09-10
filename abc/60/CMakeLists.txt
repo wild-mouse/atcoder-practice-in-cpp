@@ -1,0 +1,1 @@
+add_executable(abc_60_a shiritori.cpp)
