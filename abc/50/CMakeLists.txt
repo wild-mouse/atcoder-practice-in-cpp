@@ -1,0 +1,1 @@
+add_executable(abc_50_a addition_and_subtraction_easy.cpp)

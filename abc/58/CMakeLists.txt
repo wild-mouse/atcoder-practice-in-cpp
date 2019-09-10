@@ -1,0 +1,1 @@
+add_executable(abc_58_a i_i_i.cpp)

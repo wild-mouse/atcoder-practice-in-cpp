@@ -1,0 +1,1 @@
+add_executable(abc_59_a three_letter_acronym.cpp)

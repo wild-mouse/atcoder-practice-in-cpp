@@ -1,0 +1,1 @@
+add_executable(abc_52_a two_rectangles.cpp)

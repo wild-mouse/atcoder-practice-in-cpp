@@ -1,0 +1,1 @@
+add_executable(abc_57_a remaining_time.cpp)

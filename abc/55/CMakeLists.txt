@@ -1,0 +1,1 @@
+add_executable(abc_55_a restaurant.cpp)

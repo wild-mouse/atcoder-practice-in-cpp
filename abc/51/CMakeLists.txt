@@ -1,0 +1,1 @@
+add_executable(abc_51_a haiku.cpp)

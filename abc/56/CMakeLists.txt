@@ -1,0 +1,1 @@
+add_executable(abc_56_a honest_or_dishonest.cpp)

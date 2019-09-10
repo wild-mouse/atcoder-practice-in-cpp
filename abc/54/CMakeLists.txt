@@ -1,0 +1,1 @@
+add_executable(abc_54_a one_card_poker.cpp)

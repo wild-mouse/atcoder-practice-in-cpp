@@ -1,0 +1,1 @@
+add_executable(abc_53_a abc_arc.cpp)
