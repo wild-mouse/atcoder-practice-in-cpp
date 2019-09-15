@@ -1,0 +1,1 @@
+add_executable(abc_49_a uoiauai.cpp)

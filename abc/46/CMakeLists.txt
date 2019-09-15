@@ -1,0 +1,1 @@
+add_executable(abc_46_a atcodeer_and_paint_cans.cpp)

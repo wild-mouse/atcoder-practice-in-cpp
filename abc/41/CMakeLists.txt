@@ -1,0 +1,1 @@
+add_executable(abc_41_a soeji.cpp)

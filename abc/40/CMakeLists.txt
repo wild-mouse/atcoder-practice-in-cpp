@@ -1,0 +1,1 @@
+add_executable(abc_40_a aka_aka_aka_aka_ao.cpp)

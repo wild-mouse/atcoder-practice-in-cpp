@@ -1,0 +1,1 @@
+add_executable(abc_45_a trapezoids.cpp)

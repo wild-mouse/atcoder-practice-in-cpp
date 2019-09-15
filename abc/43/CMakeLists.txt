@@ -1,0 +1,1 @@
+add_executable(abc_43_a children_and_candies.cpp)

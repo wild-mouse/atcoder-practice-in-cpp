@@ -1,0 +1,1 @@
+add_executable(abc_47_a fighting_over_candies.cpp)

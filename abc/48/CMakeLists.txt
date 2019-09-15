@@ -1,0 +1,1 @@
+add_executable(abc_48_a atcoder_xxx_contest.cpp)

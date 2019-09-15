@@ -1,0 +1,1 @@
+add_executable(abc_42_a iroha_and_haiku.cpp)

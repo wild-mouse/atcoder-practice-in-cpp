@@ -1,0 +1,1 @@
+add_executable(abc_44_a tak_and_hotels.cpp)
