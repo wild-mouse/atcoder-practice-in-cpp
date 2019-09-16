@@ -1,0 +1,1 @@
+add_executable(abc_19_a nenrei.cpp)

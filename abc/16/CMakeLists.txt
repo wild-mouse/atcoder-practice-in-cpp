@@ -1,0 +1,1 @@
+add_executable(abc_16_a 12_6.cpp)

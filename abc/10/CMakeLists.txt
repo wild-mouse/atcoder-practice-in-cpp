@@ -1,0 +1,1 @@
+add_executable(abc_10_a handle_name.cpp)

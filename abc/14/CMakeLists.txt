@@ -1,0 +1,1 @@
+add_executable(abc_14_a kenshou.cpp)

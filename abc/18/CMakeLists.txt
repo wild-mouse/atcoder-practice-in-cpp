@@ -1,0 +1,1 @@
+add_executable(abc_18_a mamemaki.cpp)
