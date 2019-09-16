@@ -1,0 +1,1 @@
+add_executable(abc_7_a uekizan.cpp)

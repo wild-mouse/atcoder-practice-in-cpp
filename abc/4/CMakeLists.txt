@@ -1,0 +1,1 @@
+add_executable(abc_4_a ryuuko.cpp)

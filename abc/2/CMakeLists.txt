@@ -1,0 +1,1 @@
+add_executable(abc_2_a honest_man.cpp)

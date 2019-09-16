@@ -1,0 +1,1 @@
+add_executable(abc_6_a world_fizz_buzz.cpp)

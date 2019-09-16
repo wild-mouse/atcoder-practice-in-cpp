@@ -1,0 +1,1 @@
+add_executable(abc_1_a sekisetsu.cpp)

@@ -1,0 +1,1 @@
+add_executable(abc_9_a hikkoshi.cpp)

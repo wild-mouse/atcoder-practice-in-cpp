@@ -1,0 +1,1 @@
+add_executable(abc_5_a takoyaki_tukurikata.cpp)

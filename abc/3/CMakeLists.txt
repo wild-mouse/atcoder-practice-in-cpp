@@ -1,0 +1,1 @@
+add_executable(abc_3_a atcoder_saraly.cpp)
