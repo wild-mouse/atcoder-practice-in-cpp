@@ -1,0 +1,1 @@
+add_executable(abc_32_a takahashi_aoki.cpp)

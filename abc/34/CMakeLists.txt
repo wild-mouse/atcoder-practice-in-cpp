@@ -1,0 +1,1 @@
+add_executable(abc_34_a test.cpp)

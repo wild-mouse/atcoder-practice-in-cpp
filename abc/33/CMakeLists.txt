@@ -1,0 +1,1 @@
+add_executable(abc_33_a ansho_bangou.cpp)

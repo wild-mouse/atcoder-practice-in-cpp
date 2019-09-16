@@ -1,0 +1,1 @@
+add_executable(abc_37_a manju.cpp)

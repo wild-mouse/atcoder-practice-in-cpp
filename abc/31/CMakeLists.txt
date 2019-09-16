@@ -1,0 +1,1 @@
+add_executable(abc_31_a game.cpp)

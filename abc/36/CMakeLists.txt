@@ -1,0 +1,1 @@
+add_executable(abc_36_a ocha_036.cpp)
