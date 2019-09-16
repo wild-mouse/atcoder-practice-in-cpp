@@ -1,0 +1,1 @@
+add_executable(abc_25_a 25_strings.cpp)

@@ -1,0 +1,1 @@
+add_executable(abc_27_a chohokei.cpp)

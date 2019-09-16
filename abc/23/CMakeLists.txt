@@ -1,0 +1,1 @@
+add_executable(abc_23_a addition_king.cpp)

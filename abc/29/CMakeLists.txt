@@ -1,0 +1,1 @@
+add_executable(abc_29_a fukusukei.cpp)

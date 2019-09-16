@@ -1,0 +1,1 @@
+add_executable(abc_24_a zoo.cpp)
