@@ -1,0 +1,2 @@
+add_executable(abc_159_a the_number_of_even_pairs.cpp)
+add_executable(abc_159_b string_palindrome.cpp)
